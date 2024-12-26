@@ -49,13 +49,19 @@ This project was created for entertainment purposes only.
 ## Project Designs
 <table>
 <tr>
-<th width="280">Block Diagram</th>
-<th width="280">Pictorial Diagram</th>
-<th width="280">Wiring</th>
+<th width="420">Block Diagram</th>
+<th width="420">Pictorial Diagram</th>
 </tr>
 <tr>
 <td><img src="Assets/Documentation/Diagram/Block Diagram.jpg" alt="block-diagram"></td>
 <td><img src="Assets/Documentation/Diagram/Pictorial Diagram.jpg" alt="pictorial-diagram"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th width="840">Wiring</th>
+</tr>
+<tr>
 <td><img src="Assets/Documentation/Table/Device Wiring.jpg" alt="wiring"></td>
 </tr>
 </table>
