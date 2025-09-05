@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Raspberry-light.svg?style=flat&logo=raspberrypi&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# LED-Musik-Reaktif-Berbasis-Raspberry-Pi-Pico
+# LED Musik Reaktif Berbasis Raspberry Pi Pico
 Proyek ini dibuat hanya untuk tujuan hiburan.
 
 <br><br>
